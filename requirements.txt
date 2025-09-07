@@ -1,0 +1,6 @@
+mcp
+newsapi-python
+wikipedia
+mcp[cli]
+praisonaiagents
+praisonaiagents[llm]
