@@ -12,10 +12,15 @@ src/
   mcp_servers/
     daily_news.py
     wikipedia_summary.py
-  single_tool_agent_mcp_openai.py
-  single_tool_agent_mcp_ollama.py
-  multi_tools_agent_mcp_ollama.py
+    # you can later add more like: finance_summary.py, weather_report.py ...
+  agents/
+    single_tool_agent_mcp_openai.py
+    single_tool_agent_mcp_ollama.py
+    multi_tools_agent_mcp_ollama.py
+
 requirements.txt
+README.md
+.gitignore
 ```
 
 ### Requirements
