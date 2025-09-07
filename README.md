@@ -13,6 +13,7 @@ src/
     daily_news.py
     wikipedia_summary.py
     # you can later add more like: finance_summary.py, weather_report.py ...
+    
   agents/
     single_tool_agent_mcp_openai.py
     single_tool_agent_mcp_ollama.py
